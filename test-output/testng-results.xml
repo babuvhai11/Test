@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19662" started-at="2020-05-06T00:25:02 EDT" finished-at="2020-05-06T00:25:22 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19662" started-at="2020-05-06T00:25:02 EDT" finished-at="2020-05-06T00:25:22 EDT">
+      <class name="Academy.validateNabigationTab">
+        <test-method status="PASS" signature="initializer()[pri:0, instance:Academy.validateNabigationTab@7d0587f1]" name="initializer" is-config="true" duration-ms="18209" started-at="2020-05-06T00:25:02 EDT" finished-at="2020-05-06T00:25:21 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializer -->
+        <test-method status="PASS" signature="basePageNavigation()[pri:0, instance:Academy.validateNabigationTab@7d0587f1]" name="basePageNavigation" duration-ms="665" started-at="2020-05-06T00:25:21 EDT" finished-at="2020-05-06T00:25:21 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="finisher()[pri:0, instance:Academy.validateNabigationTab@7d0587f1]" name="finisher" is-config="true" duration-ms="704" started-at="2020-05-06T00:25:21 EDT" finished-at="2020-05-06T00:25:22 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finisher -->
+      </class> <!-- Academy.validateNabigationTab -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
